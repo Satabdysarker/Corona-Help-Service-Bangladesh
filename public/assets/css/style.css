@@ -1,0 +1,13 @@
+ .dash-back-icon{
+   background-repeat: no-repeat;
+   background-size: 2.9rem;
+   background-position-y: 8px;
+   background-position-x: right;
+ }
+
+@media screen and (max-width: 550px) {
+  table{
+    font-size: xx-small;
+    
+  }
+}
